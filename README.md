@@ -13,7 +13,7 @@ Esto es un ejemplo
 
 -  *Hola maestro* 
 
-![Pez raro](PEZ RARO.jpeg)
+![Pez raro](PEZ-RARO.jpeg)
 
 
 - **Hola profesor**
