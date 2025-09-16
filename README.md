@@ -27,3 +27,19 @@ x = 6;
 document.getElementById("demo").innerHTML = "The value of x is " + x;
 </script>
 ```
+
+### barras cuadradas
+.vermell {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  border: thin solid green;
+}
+
+#mogut {
+  left: 100px;
+}
+
+<div class="vermell"> </div>
+<div id="mogut" class="vermell"> </div>
+<div class="vermell"> </div>
