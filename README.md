@@ -16,3 +16,10 @@ Esto es un ejemplo
 
 ### Codi
 ```javascript
+<script>
+let x;
+x = 6;
+
+document.getElementById("demo").innerHTML = "The value of x is " + x;
+</script>
+```
